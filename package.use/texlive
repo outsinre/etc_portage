@@ -1,0 +1,12 @@
+app-text/texlive xetex cjk l10n_zh
+
+# required by dev-texlive/texlive-langcjk-2014::gentoo
+# required by dev-texlive/texlive-langchinese-2014::gentoo
+# required by app-text/texlive-2014::gentoo[l10n_zh]
+# required by texlive (argument)
+>=app-text/texlive-core-2014-r4 xetex cjk
+# required by app-text/texlive-core-2014-r4::gentoo[xetex]
+# required by dev-texlive/texlive-genericrecommended-2014::gentoo
+# required by app-text/texlive-2014::gentoo
+# required by texlive (argument)
+>=media-libs/harfbuzz-1.2.7 icu
