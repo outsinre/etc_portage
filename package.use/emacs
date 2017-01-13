@@ -1,1 +1,3 @@
 app-editors/emacs xft libxml2 ssl
+app-editors/emacs athena Xaw3d -gtk -gtk3 -motif
+#app-editors/emacs motif -gtk -gtk3 -athena -Xaw3d

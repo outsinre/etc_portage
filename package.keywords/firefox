@@ -1,5 +1,1 @@
-=www-client/firefox-48.0.1 ~amd64
-
-# required by www-client/firefox-48.0.1::gentoo
-# required by firefox (argument)
-=dev-libs/nss-3.26 ~amd64
+=www-client/firefox-50.1.0-r1 ~amd64

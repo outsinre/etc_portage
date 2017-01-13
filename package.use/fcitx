@@ -1,1 +1,2 @@
-app-i18n/fcitx gtk gtk3 -table
+#app-i18n/fcitx gtk gtk2 gtk3 -table
+app-i18n/fcitx gtk2 gtk3 -table

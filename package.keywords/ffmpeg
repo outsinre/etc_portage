@@ -1,0 +1,5 @@
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by www-client/firefox-49.0::gentoo
+# required by @selected
+# required by @world (argument)
+=media-video/ffmpeg-3.2.2 ~amd64
