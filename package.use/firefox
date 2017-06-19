@@ -1,3 +1,5 @@
+www-client/firefox hwaccel
+
 # required by www-client/firefox-48.0.1::gentoo
 # required by firefox (argument)
 >=dev-lang/python-2.7.10-r1:2.7 sqlite

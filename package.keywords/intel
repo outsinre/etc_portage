@@ -1,6 +1,6 @@
 =media-libs/mesa-9999 **
-=x11-libs/libdrm-2.4.73 ~amd64
+# =x11-libs/libdrm-2.4.79 ~amd64
 
-=x11-drivers/xf86-video-intel-2.99.917_p20161206 ~amd64
+# =x11-drivers/xf86-video-intel-2.99.917_p20161206 ~amd64
 =x11-libs/libva-intel-driver-9999 **
 =x11-libs/libva-9999 **
