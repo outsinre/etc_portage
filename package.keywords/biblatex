@@ -1,0 +1,6 @@
+=dev-tex/biblatex-3.7-r1 ~amd64
+=dev-tex/biber-2.7 ~amd64
+=perl-core/Unicode-Collate-1.210.0 ~amd64
+=virtual/perl-Unicode-Collate-1.210.0 ~amd64
+=dev-perl/DateTime-Calendar-Julian-0.40.0 ~amd64
+=dev-perl/Sort-Key-1.330.0-r1 ~amd64

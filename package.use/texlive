@@ -1,4 +1,4 @@
-app-text/texlive xetex cjk l10n_zh
+app-text/texlive xetex cjk l10n_zh science publishers
 
 # required by dev-texlive/texlive-langcjk-2014::gentoo
 # required by dev-texlive/texlive-langchinese-2014::gentoo

@@ -1,0 +1,4 @@
+# required by dev-scheme/guile-2.0.14-r3::gentoo
+# required by guile (argument)
+>=dev-libs/boehm-gc-7.4.2 threads
+ 

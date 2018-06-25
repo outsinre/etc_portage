@@ -1,0 +1,2 @@
+=net-vpn/tor-0.2.9.11 ~amd64
+>=net-vpn/tor-0.3 ~amd64
